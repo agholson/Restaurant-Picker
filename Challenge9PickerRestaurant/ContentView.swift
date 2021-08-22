@@ -99,10 +99,10 @@ struct ContentView: View {
             }) {
                 Text("Order for me!")
             }
-            
+            .padding()
             
         }
-        
+            
     }
     
     // MARK: Method to randomly choose the order, location, and time
